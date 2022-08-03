@@ -1,4 +1,4 @@
-[![MasterHead]((https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)(https://me.behzodasliddinov.uz)
+[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)(https://me.behzodasliddinov.uz)
 <h1 align="center">Hi 👋, I'm Bekhzod Asliddinov</h1>
 <h3 align="center">I'm FullStack Web Develover from Uzbekistan!</h3>
 
