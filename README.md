@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,VUE,VUEX,PYTHON,AIOGRAM,FLASK,DJANGO,DJANGO REST FRAMEWORK,DJANGO CELERY,RABBITMQ,DJANGO CHANNELS,SQL,POSTGRESQL**
 
-- 📫 How to reach me **behzodme@gmail.com**
+- 📫 How to reach me **behzodtuit@gmail.com**
 
 - 📄 Know about my experiences [https://me.behzodasliddinov.uz/#about](https://me.behzodasliddinov.uz/#about)
 
